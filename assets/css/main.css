@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #feb900;
+  --color-primary: orangered;
   --color-secondary: #52565e;
 }
 
@@ -657,7 +657,7 @@ section {
 }
 
 .get-started .php-email-form button[type=submit]:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: orangered;
 }
 
 @keyframes animate-loading {
@@ -1023,13 +1023,13 @@ section {
 }
 
 .testimonials .testimonial-item .stars i {
-  color: #ffc107;
+  color: orangered;
   margin: 0 1px;
 }
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #ffd565;
+  color: orangered;
   font-size: 26px;
   line-height: 0;
 }
@@ -1493,7 +1493,7 @@ section {
 }
 
 .project-details .portfolio-info .btn-visit:hover {
-  background: #ffc019;
+  background: orangered;
 }
 
 .project-details .portfolio-description h2 {
@@ -1645,7 +1645,7 @@ section {
   line-height: 0;
   color: var(--color-primary);
   border-radius: 50%;
-  border: 2px dotted #ffd565;
+  border: 2px dotted orangered;
 }
 
 .contact .info-item h3 {
@@ -1744,7 +1744,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: orangered;
 }
 
 @keyframes animate-loading {
@@ -2345,7 +2345,7 @@ section {
 }
 
 .blog .sidebar .search-form form button:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: orangered;
 }
 
 .blog .sidebar .categories ul {
@@ -2523,7 +2523,7 @@ section {
 
 .blog .comments .reply-form input:focus {
   box-shadow: none;
-  border-color: rgba(254, 185, 0, 0.8);
+  border-color: orangered;
 }
 
 .blog .comments .reply-form textarea {
@@ -2534,7 +2534,7 @@ section {
 
 .blog .comments .reply-form textarea:focus {
   box-shadow: none;
-  border-color: rgba(254, 185, 0, 0.8);
+  border-color: orangered;
 }
 
 .blog .comments .reply-form .form-group {
